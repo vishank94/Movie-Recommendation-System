@@ -22,6 +22,7 @@ This repository contains solution to coding challenge recommendation-system.
 
 # Dependencies
 Python libraries: re, ast, time, heapq, decimal, operator, subprocess, numpy, scipy, pandas, seaborn, networkx, rpy2, itertools, matplotlib, datetime, collections, networkx, sklearn, surprise
+
 R libraries: doMC, Kmisc, igraph, data.table
 
 
