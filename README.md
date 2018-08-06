@@ -17,7 +17,7 @@ This repository contains solution to coding challenge recommendation-system.
 2. Some concepts used here are - PageRank, Content-Based Recommendation, Collaborative Filtering.
 3. Machine learning terminology you'll come across here - One-Hot Encoding, Cross-Validation, R-squared metric.
 4. The notebook uses and compares Linear Regression and Decision Trees models to predict movie ratings for users.
-5. The ML pipeline used here - data wrangling->exploratory data analysis->feature engineering->baseline model->best model.
+5. ML pipeline used here - data wrangling->exploratory data analysis->feature engineering->baseline model->best model.
 
 
 # Dependencies
