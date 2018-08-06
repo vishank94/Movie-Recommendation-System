@@ -34,7 +34,7 @@ R libraries: doMC, Kmisc, igraph, data.table
 3. The repository directory structure given below must be maintained for the code to run successfully.
 
 
-# Directory structure
+# Directory Structure
 The directory structure for my repo is as follows:
     
     ├── README.md 
